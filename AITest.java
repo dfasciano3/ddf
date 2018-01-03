@@ -99,7 +99,7 @@ public class AITest extends AISubmissive {
 	    if (n > 3) {
 		    return "roll "+(3);
 	    }
-	    return "roll "+n;
+	    return "roll "+(n);
     }
 
 
